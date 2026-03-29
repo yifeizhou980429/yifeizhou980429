@@ -1,6 +1,6 @@
 # Hi, I'm Yifei Zhou
 
-Master of Computer Science student at UNSW with a background in Data Science and software engineering.
+Master of Computer Science student at UNSW with a background in Data Science, software engineering, and applied NLP.
 
 ## Interests
 - Applied machine learning
