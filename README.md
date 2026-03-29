@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yifei Zhou
 
-<!--
-**yifeizhou980429/yifeizhou980429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of Computer Science student at UNSW with a background in Data Science and software engineering.
 
-Here are some ideas to get you started:
+## Interests
+- Applied machine learning
+- AI tools
+- NLP
+- Product ideas and practical software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- A category validation / market insight tool for small e-commerce sellers
+- An AI-assisted tool for parts of the job application workflow
+
+## Background
+- Former NLP Engineer at Zhejiang Lab
+- University of Melbourne: Bachelor + Master in Data Science
+- UNSW: Master of Computer Science
+
+## Links
+- LinkedIn: www.linkedin.com/in/yifei-zhou-sssss
+
